@@ -23,3 +23,5 @@ Aluno na Universidade do Estado de Santa Catarina([UDESC](https://www.udesc.br))
 
 Professor na Universidade do Estado de Santa Catarina ([UDESC](https://www.udesc.br)). É graduado (2005/FURB), mestre (2009/UFRGS) e doutor (2019/UFRGS) em Ciência da Computação. Atua nas áreas de inteligência artificial, sistemas multiagente e simulações baseadas em agentes.
 
+## Materias do Minicurso
+[Guia de estudo Notion](https://www.notion.so/Roteiro-Minicurso-NetLogo-2854aa82defa80fdb59bee6ced4c77de?source=copy_link) | [Apresentação da parte prática](https://udesc-my.sharepoint.com/:p:/g/personal/03999436921_udesc_br/EeT-XfvnS6JAqQgq4ZXtNZoBOyixvuNDBM2nWX85ctxrTQ?e=XMAqW7)
