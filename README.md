@@ -25,7 +25,7 @@ Professor na Universidade do Estado de Santa Catarina ([UDESC](https://www.udesc
 
 ## Materias do Minicurso
 ### Parte teórica
-[slides][minicurso-teoria/eramia2025-teorico.pdf]
+[slides][./minicurso-teoria/eramia2025-teorico.pdf]
 
 ### Parte prática
 [slides](https://udesc-my.sharepoint.com/:p:/g/personal/03999436921_udesc_br/EeT-XfvnS6JAqQgq4ZXtNZoBOyixvuNDBM2nWX85ctxrTQ?e=XMAqW7)
